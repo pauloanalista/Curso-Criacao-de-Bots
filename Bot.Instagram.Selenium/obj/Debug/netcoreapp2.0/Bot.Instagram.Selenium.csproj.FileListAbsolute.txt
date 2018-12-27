@@ -1,0 +1,12 @@
+C:\_dev\robos\Bot\Bot.Instagram.Selenium\bin\Debug\netcoreapp2.0\Bot.Instagram.Selenium.deps.json
+C:\_dev\robos\Bot\Bot.Instagram.Selenium\bin\Debug\netcoreapp2.0\Bot.Instagram.Selenium.runtimeconfig.json
+C:\_dev\robos\Bot\Bot.Instagram.Selenium\bin\Debug\netcoreapp2.0\Bot.Instagram.Selenium.runtimeconfig.dev.json
+C:\_dev\robos\Bot\Bot.Instagram.Selenium\bin\Debug\netcoreapp2.0\Bot.Instagram.Selenium.dll
+C:\_dev\robos\Bot\Bot.Instagram.Selenium\bin\Debug\netcoreapp2.0\Bot.Instagram.Selenium.pdb
+C:\_dev\robos\Bot\Bot.Instagram.Selenium\obj\Debug\netcoreapp2.0\Bot.Instagram.Selenium.csproj.CoreCompileInputs.cache
+C:\_dev\robos\Bot\Bot.Instagram.Selenium\obj\Debug\netcoreapp2.0\Bot.Instagram.Selenium.AssemblyInfoInputs.cache
+C:\_dev\robos\Bot\Bot.Instagram.Selenium\obj\Debug\netcoreapp2.0\Bot.Instagram.Selenium.AssemblyInfo.cs
+C:\_dev\robos\Bot\Bot.Instagram.Selenium\obj\Debug\netcoreapp2.0\Bot.Instagram.Selenium.dll
+C:\_dev\robos\Bot\Bot.Instagram.Selenium\obj\Debug\netcoreapp2.0\Bot.Instagram.Selenium.pdb
+C:\_dev\robos\Bot\Bot.Instagram.Selenium\obj\Debug\netcoreapp2.0\Bot.Instagram.Selenium.csprojResolveAssemblyReference.cache
+C:\_dev\robos\Bot\Bot.Instagram.Selenium\bin\Debug\netcoreapp2.0\Bot.Instagram.Selenium.dll.config

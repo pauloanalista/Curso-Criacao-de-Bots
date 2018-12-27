@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bot.MegaSena.Html", "Bot.MegaSena\Bot.MegaSena.Html.csproj", "{55585204-0ACF-40AD-A328-D021961508AC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bot.MegaSena.Json", "Bot.MegaSena.Json\Bot.MegaSena.Json.csproj", "{9F6DA7E7-2672-4D27-B1D8-F2E00D341C72}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bot.Instagram.Profile", "Bot.Instagram.Profile\Bot.Instagram.Profile.csproj", "{19ECEB5A-3585-489F-A3EA-A5075FDB6E4D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bot.Instagram.Selenium", "Bot.Instagram.Selenium\Bot.Instagram.Selenium.csproj", "{59C692F7-6CA6-4B63-87DB-1C81E607FDCA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bot.Youtube.View.Selenium", "Bot.Youtube.View\Bot.Youtube.View.Selenium.csproj", "{3ADE2E0D-6ED5-45F9-A770-267536ECDBAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bot.WhatsApp.Share.Selenium", "Bot.WhatsApp.Share.Selenium\Bot.WhatsApp.Share.Selenium.csproj", "{5A4A4D1E-279B-43D9-A014-DA9761E81E3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot.WhatsApp.Marketing", "Bot.WhatsApp.Marketing\Bot.WhatsApp.Marketing.csproj", "{605E6B54-D026-426E-A42C-CD1E346EABD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55585204-0ACF-40AD-A328-D021961508AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55585204-0ACF-40AD-A328-D021961508AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55585204-0ACF-40AD-A328-D021961508AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55585204-0ACF-40AD-A328-D021961508AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6DA7E7-2672-4D27-B1D8-F2E00D341C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6DA7E7-2672-4D27-B1D8-F2E00D341C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6DA7E7-2672-4D27-B1D8-F2E00D341C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6DA7E7-2672-4D27-B1D8-F2E00D341C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19ECEB5A-3585-489F-A3EA-A5075FDB6E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19ECEB5A-3585-489F-A3EA-A5075FDB6E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19ECEB5A-3585-489F-A3EA-A5075FDB6E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19ECEB5A-3585-489F-A3EA-A5075FDB6E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C692F7-6CA6-4B63-87DB-1C81E607FDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C692F7-6CA6-4B63-87DB-1C81E607FDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C692F7-6CA6-4B63-87DB-1C81E607FDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C692F7-6CA6-4B63-87DB-1C81E607FDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ADE2E0D-6ED5-45F9-A770-267536ECDBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADE2E0D-6ED5-45F9-A770-267536ECDBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADE2E0D-6ED5-45F9-A770-267536ECDBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADE2E0D-6ED5-45F9-A770-267536ECDBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A4A4D1E-279B-43D9-A014-DA9761E81E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4A4D1E-279B-43D9-A014-DA9761E81E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4A4D1E-279B-43D9-A014-DA9761E81E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4A4D1E-279B-43D9-A014-DA9761E81E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{605E6B54-D026-426E-A42C-CD1E346EABD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605E6B54-D026-426E-A42C-CD1E346EABD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605E6B54-D026-426E-A42C-CD1E346EABD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605E6B54-D026-426E-A42C-CD1E346EABD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE53E582-A2DD-4BCE-B333-DC29F1555E52}
+	EndGlobalSection
+EndGlobal

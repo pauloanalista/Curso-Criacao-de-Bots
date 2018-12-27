@@ -1,0 +1,11 @@
+C:\_dev\robos\Bot\Bot.Youtube.View\bin\Debug\netcoreapp2.0\Bot.Youtube.View.Selenium.deps.json
+C:\_dev\robos\Bot\Bot.Youtube.View\bin\Debug\netcoreapp2.0\Bot.Youtube.View.Selenium.runtimeconfig.json
+C:\_dev\robos\Bot\Bot.Youtube.View\bin\Debug\netcoreapp2.0\Bot.Youtube.View.Selenium.runtimeconfig.dev.json
+C:\_dev\robos\Bot\Bot.Youtube.View\bin\Debug\netcoreapp2.0\Bot.Youtube.View.Selenium.dll
+C:\_dev\robos\Bot\Bot.Youtube.View\obj\Debug\netcoreapp2.0\Bot.Youtube.View.Selenium.csprojResolveAssemblyReference.cache
+C:\_dev\robos\Bot\Bot.Youtube.View\obj\Debug\netcoreapp2.0\Bot.Youtube.View.Selenium.csproj.CoreCompileInputs.cache
+C:\_dev\robos\Bot\Bot.Youtube.View\obj\Debug\netcoreapp2.0\Bot.Youtube.View.Selenium.AssemblyInfoInputs.cache
+C:\_dev\robos\Bot\Bot.Youtube.View\obj\Debug\netcoreapp2.0\Bot.Youtube.View.Selenium.AssemblyInfo.cs
+C:\_dev\robos\Bot\Bot.Youtube.View\bin\Debug\netcoreapp2.0\Bot.Youtube.View.Selenium.pdb
+C:\_dev\robos\Bot\Bot.Youtube.View\obj\Debug\netcoreapp2.0\Bot.Youtube.View.Selenium.dll
+C:\_dev\robos\Bot\Bot.Youtube.View\obj\Debug\netcoreapp2.0\Bot.Youtube.View.Selenium.pdb

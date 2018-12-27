@@ -1,0 +1,11 @@
+C:\_dev\robos\Bot\Bot.MegaSena\bin\Debug\netcoreapp2.0\Bot.MegaSena.deps.json
+C:\_dev\robos\Bot\Bot.MegaSena\bin\Debug\netcoreapp2.0\Bot.MegaSena.runtimeconfig.json
+C:\_dev\robos\Bot\Bot.MegaSena\bin\Debug\netcoreapp2.0\Bot.MegaSena.runtimeconfig.dev.json
+C:\_dev\robos\Bot\Bot.MegaSena\bin\Debug\netcoreapp2.0\Bot.MegaSena.dll
+C:\_dev\robos\Bot\Bot.MegaSena\bin\Debug\netcoreapp2.0\Bot.MegaSena.pdb
+C:\_dev\robos\Bot\Bot.MegaSena\obj\Debug\netcoreapp2.0\Bot.MegaSena.csprojResolveAssemblyReference.cache
+C:\_dev\robos\Bot\Bot.MegaSena\obj\Debug\netcoreapp2.0\Bot.MegaSena.csproj.CoreCompileInputs.cache
+C:\_dev\robos\Bot\Bot.MegaSena\obj\Debug\netcoreapp2.0\Bot.MegaSena.AssemblyInfoInputs.cache
+C:\_dev\robos\Bot\Bot.MegaSena\obj\Debug\netcoreapp2.0\Bot.MegaSena.AssemblyInfo.cs
+C:\_dev\robos\Bot\Bot.MegaSena\obj\Debug\netcoreapp2.0\Bot.MegaSena.dll
+C:\_dev\robos\Bot\Bot.MegaSena\obj\Debug\netcoreapp2.0\Bot.MegaSena.pdb

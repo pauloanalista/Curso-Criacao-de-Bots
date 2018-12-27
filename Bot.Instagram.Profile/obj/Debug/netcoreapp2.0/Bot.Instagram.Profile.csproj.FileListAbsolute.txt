@@ -1,0 +1,11 @@
+C:\_dev\robos\Bot\Bot.Instagram.Profile\bin\Debug\netcoreapp2.0\Bot.Instagram.Profile.deps.json
+C:\_dev\robos\Bot\Bot.Instagram.Profile\bin\Debug\netcoreapp2.0\Bot.Instagram.Profile.runtimeconfig.json
+C:\_dev\robos\Bot\Bot.Instagram.Profile\bin\Debug\netcoreapp2.0\Bot.Instagram.Profile.runtimeconfig.dev.json
+C:\_dev\robos\Bot\Bot.Instagram.Profile\bin\Debug\netcoreapp2.0\Bot.Instagram.Profile.dll
+C:\_dev\robos\Bot\Bot.Instagram.Profile\bin\Debug\netcoreapp2.0\Bot.Instagram.Profile.pdb
+C:\_dev\robos\Bot\Bot.Instagram.Profile\obj\Debug\netcoreapp2.0\Bot.Instagram.Profile.csproj.CoreCompileInputs.cache
+C:\_dev\robos\Bot\Bot.Instagram.Profile\obj\Debug\netcoreapp2.0\Bot.Instagram.Profile.AssemblyInfoInputs.cache
+C:\_dev\robos\Bot\Bot.Instagram.Profile\obj\Debug\netcoreapp2.0\Bot.Instagram.Profile.AssemblyInfo.cs
+C:\_dev\robos\Bot\Bot.Instagram.Profile\obj\Debug\netcoreapp2.0\Bot.Instagram.Profile.dll
+C:\_dev\robos\Bot\Bot.Instagram.Profile\obj\Debug\netcoreapp2.0\Bot.Instagram.Profile.pdb
+C:\_dev\robos\Bot\Bot.Instagram.Profile\obj\Debug\netcoreapp2.0\Bot.Instagram.Profile.csprojResolveAssemblyReference.cache

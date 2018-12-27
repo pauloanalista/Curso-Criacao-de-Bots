@@ -1,0 +1,10 @@
+C:\_dev\robos\Bot\Bot.WhatsApp.Share.Selenium\bin\Debug\netcoreapp2.0\Bot.WhatsApp.Share.Selenium.deps.json
+C:\_dev\robos\Bot\Bot.WhatsApp.Share.Selenium\bin\Debug\netcoreapp2.0\Bot.WhatsApp.Share.Selenium.runtimeconfig.json
+C:\_dev\robos\Bot\Bot.WhatsApp.Share.Selenium\bin\Debug\netcoreapp2.0\Bot.WhatsApp.Share.Selenium.runtimeconfig.dev.json
+C:\_dev\robos\Bot\Bot.WhatsApp.Share.Selenium\bin\Debug\netcoreapp2.0\Bot.WhatsApp.Share.Selenium.dll
+C:\_dev\robos\Bot\Bot.WhatsApp.Share.Selenium\bin\Debug\netcoreapp2.0\Bot.WhatsApp.Share.Selenium.pdb
+C:\_dev\robos\Bot\Bot.WhatsApp.Share.Selenium\obj\Debug\netcoreapp2.0\Bot.WhatsApp.Share.Selenium.csproj.CoreCompileInputs.cache
+C:\_dev\robos\Bot\Bot.WhatsApp.Share.Selenium\obj\Debug\netcoreapp2.0\Bot.WhatsApp.Share.Selenium.AssemblyInfoInputs.cache
+C:\_dev\robos\Bot\Bot.WhatsApp.Share.Selenium\obj\Debug\netcoreapp2.0\Bot.WhatsApp.Share.Selenium.AssemblyInfo.cs
+C:\_dev\robos\Bot\Bot.WhatsApp.Share.Selenium\obj\Debug\netcoreapp2.0\Bot.WhatsApp.Share.Selenium.dll
+C:\_dev\robos\Bot\Bot.WhatsApp.Share.Selenium\obj\Debug\netcoreapp2.0\Bot.WhatsApp.Share.Selenium.pdb

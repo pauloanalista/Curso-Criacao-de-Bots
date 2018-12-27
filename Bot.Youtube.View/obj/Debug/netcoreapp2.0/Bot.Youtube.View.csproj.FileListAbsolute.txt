@@ -1,0 +1,10 @@
+C:\_dev\robos\Bot\Bot.Youtube.View\bin\Debug\netcoreapp2.0\Bot.Youtube.View.deps.json
+C:\_dev\robos\Bot\Bot.Youtube.View\bin\Debug\netcoreapp2.0\Bot.Youtube.View.runtimeconfig.json
+C:\_dev\robos\Bot\Bot.Youtube.View\bin\Debug\netcoreapp2.0\Bot.Youtube.View.runtimeconfig.dev.json
+C:\_dev\robos\Bot\Bot.Youtube.View\bin\Debug\netcoreapp2.0\Bot.Youtube.View.dll
+C:\_dev\robos\Bot\Bot.Youtube.View\bin\Debug\netcoreapp2.0\Bot.Youtube.View.pdb
+C:\_dev\robos\Bot\Bot.Youtube.View\obj\Debug\netcoreapp2.0\Bot.Youtube.View.csproj.CoreCompileInputs.cache
+C:\_dev\robos\Bot\Bot.Youtube.View\obj\Debug\netcoreapp2.0\Bot.Youtube.View.AssemblyInfoInputs.cache
+C:\_dev\robos\Bot\Bot.Youtube.View\obj\Debug\netcoreapp2.0\Bot.Youtube.View.AssemblyInfo.cs
+C:\_dev\robos\Bot\Bot.Youtube.View\obj\Debug\netcoreapp2.0\Bot.Youtube.View.dll
+C:\_dev\robos\Bot\Bot.Youtube.View\obj\Debug\netcoreapp2.0\Bot.Youtube.View.pdb

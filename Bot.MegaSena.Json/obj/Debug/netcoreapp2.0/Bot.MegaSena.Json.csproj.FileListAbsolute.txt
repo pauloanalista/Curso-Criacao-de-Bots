@@ -1,0 +1,11 @@
+C:\_dev\robos\Bot\Bot.MegaSena.Json\bin\Debug\netcoreapp2.0\Bot.MegaSena.Json.deps.json
+C:\_dev\robos\Bot\Bot.MegaSena.Json\bin\Debug\netcoreapp2.0\Bot.MegaSena.Json.runtimeconfig.json
+C:\_dev\robos\Bot\Bot.MegaSena.Json\bin\Debug\netcoreapp2.0\Bot.MegaSena.Json.runtimeconfig.dev.json
+C:\_dev\robos\Bot\Bot.MegaSena.Json\bin\Debug\netcoreapp2.0\Bot.MegaSena.Json.dll
+C:\_dev\robos\Bot\Bot.MegaSena.Json\bin\Debug\netcoreapp2.0\Bot.MegaSena.Json.pdb
+C:\_dev\robos\Bot\Bot.MegaSena.Json\obj\Debug\netcoreapp2.0\Bot.MegaSena.Json.csproj.CoreCompileInputs.cache
+C:\_dev\robos\Bot\Bot.MegaSena.Json\obj\Debug\netcoreapp2.0\Bot.MegaSena.Json.AssemblyInfoInputs.cache
+C:\_dev\robos\Bot\Bot.MegaSena.Json\obj\Debug\netcoreapp2.0\Bot.MegaSena.Json.AssemblyInfo.cs
+C:\_dev\robos\Bot\Bot.MegaSena.Json\obj\Debug\netcoreapp2.0\Bot.MegaSena.Json.dll
+C:\_dev\robos\Bot\Bot.MegaSena.Json\obj\Debug\netcoreapp2.0\Bot.MegaSena.Json.pdb
+C:\_dev\robos\Bot\Bot.MegaSena.Json\obj\Debug\netcoreapp2.0\Bot.MegaSena.Json.csprojResolveAssemblyReference.cache
